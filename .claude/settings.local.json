@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c \"if exist D:\\\\TwinCAT-ADS \\(echo FOUND\\) else \\(echo NOT_FOUND\\)\")",
+      "Bash(test:*)",
+      "Bash(cd:*)",
+      "Bash(dir:*)",
+      "Bash(powershell -NoProfile -Command:*)",
+      "Bash(xcopy:*)",
+      "Bash(robocopy:*)",
+      "Bash(powershell -Command:*)"
+    ]
+  }
+}
