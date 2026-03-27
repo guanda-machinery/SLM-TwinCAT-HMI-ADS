@@ -1,6 +1,0 @@
-[submodule "TwinCAT-ADS"]
-	path = TwinCAT-ADS
-	url = https://github.com/guanda-machinery/TwinCAT-ADS.git
-[submodule "TwinCAT-SLM-HMI"]
-	path = TwinCAT-SLM-HMI
-	url = https://github.com/eriksun0310/TcHmiProject1.git
