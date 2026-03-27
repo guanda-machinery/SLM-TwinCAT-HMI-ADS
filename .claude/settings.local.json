@@ -8,7 +8,8 @@
       "Bash(powershell -NoProfile -Command:*)",
       "Bash(xcopy:*)",
       "Bash(robocopy:*)",
-      "Bash(powershell -Command:*)"
+      "Bash(powershell -Command:*)",
+      "WebFetch(domain:github.com)"
     ]
   }
 }
