@@ -17,7 +17,8 @@
       "Bash(where:*)",
       "Bash(git check-ignore:*)",
       "Bash(del \"\\\\?\\\\D:\\\\SLM-TwinCAT-HMI-ADS\\\\nul\")",
-      "Bash(cmd /c:*)"
+      "Bash(cmd /c:*)",
+      "Bash(del \"D:\\\\SLM-TwinCAT-HMI-ADS\\\\TwinCAT-SLM-HMI\\\\TcHmiProject1.~u\")"
     ]
   }
 }
