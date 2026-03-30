@@ -11,7 +11,13 @@
       "Bash(powershell -Command:*)",
       "WebFetch(domain:github.com)",
       "Bash(cmd /c \"dir d:\\\\SLM-TwinCAT-HMI-ADS\"\")",
-      "Bash(Get-ChildItem \"d:\\\\SLM-TwinCAT-HMI-ADS\")"
+      "Bash(Get-ChildItem \"d:\\\\SLM-TwinCAT-HMI-ADS\")",
+      "Bash(ls:*)",
+      "Bash(echo:*)",
+      "Bash(where:*)",
+      "Bash(git check-ignore:*)",
+      "Bash(del \"\\\\?\\\\D:\\\\SLM-TwinCAT-HMI-ADS\\\\nul\")",
+      "Bash(cmd /c:*)"
     ]
   }
 }
