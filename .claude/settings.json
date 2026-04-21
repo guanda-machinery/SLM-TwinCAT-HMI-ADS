@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git submodule:*)",
+      "Bash(git -C \"d:/SLM-TwinCAT-HMI-ADS/TwinCAT-ADS\" ls-files \"TwinCAT Project3/PLC1/PLC1.tmc\")",
+      "Bash(git -C \"d:/SLM-TwinCAT-HMI-ADS/TwinCAT-ADS\" ls-files)",
+      "Bash(git --git-dir=\"d:/SLM-TwinCAT-HMI-ADS/.git/modules/TwinCAT-ADS\" --work-tree=\"d:/SLM-TwinCAT-HMI-ADS/TwinCAT-ADS\" ls-files)",
+      "Bash(git --git-dir=\"d:/SLM-TwinCAT-HMI-ADS/.git/modules/TwinCAT-ADS\" log --oneline -5)",
+      "Bash(git --git-dir=\"d:/SLM-TwinCAT-HMI-ADS/.git/modules/TwinCAT-ADS\" --work-tree=\"d:/SLM-TwinCAT-HMI-ADS/TwinCAT-ADS\" ls-files -- \"TwinCAT Project3/PLC1/PLC1.tmc\")"
+    ]
+  }
+}
